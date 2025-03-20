@@ -1,0 +1,7 @@
+Duplicate entry 'rajasriburla172@gmail.com' for key 'email'
+Duplicate entry 'chinni@gmail.com' for key 'email'
+Duplicate entry 'chinni@gmail.com' for key 'email'
+Duplicate entry 'chinni@gmail.com' for key 'email'
+Unknown column 'phone' in 'field list'
+Unknown column 'phone' in 'field list'
+Unknown column 'phone' in 'field list'
